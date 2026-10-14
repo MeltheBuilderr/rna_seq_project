@@ -1,5 +1,8 @@
 #! /bin/bash -l
 
+# smth smth
+module load fastp
+
 fastp  \
 -i sample_R1.fastq.gz \
 -I sample_R2.fastq.gz \
